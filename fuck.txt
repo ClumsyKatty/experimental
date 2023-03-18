@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 fuck fuck
 Fuck Fuck
+=======
+fuck fuckHello Katty
+>>>>>>> 6d01fdf25f2414d10bd3608c0a56ab0a30509582
